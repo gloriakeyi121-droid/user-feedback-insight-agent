@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project local files
+.env.*
+!.env.example
+.DS_Store
+private/
